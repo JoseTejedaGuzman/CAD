@@ -4,3 +4,8 @@ This collection showcases a variety of mechanical parts and assemblies tailored 
 
 ### Key Features
 - High precision **3D CAD models** for industrial applications.
+
+## Tools & Software  
+
+- **CAD Software**: Developed using FreeCAD 0.21.
+- **Simulation Tools**: Integrated with custom CoppeliaSIM scenarios.
